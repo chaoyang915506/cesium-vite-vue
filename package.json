@@ -1,0 +1,26 @@
+{
+  "name": "vue3-vite-cesium",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cesium": "^1.108.0",
+    "element-plus": "^2.3.14",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.1",
+    "vite-plugin-cesium": "^1.2.22",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.30",
+    "sass": "^1.66.1",
+    "vite": "^4.4.5"
+  }
+}
